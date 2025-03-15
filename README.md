@@ -1,6 +1,6 @@
-📌 Python Basics & Student Management System
+# 📌 Python Basics & Student Management System
 
-🚀 Overview
+* *🚀 Overview 
 
 This project explores fundamental Python programming concepts, including:
 
@@ -14,20 +14,21 @@ Additionally, we built a Student Management System, applying these concepts in a
 
 📚 Lessons Covered
 
-📌 Lesson 05: Control Flow & Loops
+** 📌 Lesson 05: Control Flow & Loops **
 
 🔹 If-Else Conditions: Making decisions in code.🔹 For Loop: Iterating over a range or collection.🔹 While Loop: Executing tasks based on conditions.
 
-📌 Lesson 06: Lists, Tuples & Dictionaries
+** 📌 Lesson 06: Lists, Tuples & Dictionaries **
 
 📌 Lists: Mutable sequence storing multiple items.📌 Tuples: Immutable sequence for fixed collections.📌 Dictionaries: Key-value pairs for structured data storage.
 
-📌 Lesson 07: Sets & Frozensets
+** 📌 Lesson 07: Sets & Frozensets **
 
-🔹 Set: Unordered collection of unique elements.🔹 Frozenset: Immutable set for fixed unique values.
+🔹 Set: Unordered collection of unique elements.<br/>
+🔹 Frozenset: Immutable set for fixed unique values.
 
 
-🏗️ Project: Student Management System
+## 🏗️ Project: Student Management System
 
 A simple Python program to manage student records using control flow, loops, dictionaries, and sets.
 
@@ -38,7 +39,7 @@ A simple Python program to manage student records using control flow, loops, dic
 ✅ Remove a student by name.
 ✅ Maintain a unique set of student records.
 
-🎯 Key Takeaways
+🎯 ** Key Takeaways ** 
 
 🔹 Python’s control flow allows efficient decision-making.
 🔹 Lists, Tuples, and Dictionaries provide structured data handling.
